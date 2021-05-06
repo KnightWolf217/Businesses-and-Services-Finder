@@ -1,0 +1,25 @@
+Bob's Builders:Finchley Central:Brick laying, Scaffolding, Joinery:10:120.00:General building company, most work considered.
+Plaster Magic:Brent Cross:Plastering, Rendering, Fascias, Painting and Decorating:3:150.00:Specialist in plastering and wall coverings.
+Bricks and Blocks:Bounds Green:Brick laying, Walls, Garage roofs:5:130.00:General construction and brick work.
+Decorating Delight:Highgate:Wall papering, Plastering, Painting, Decorating:8:175.00:All painting and decorating considered.
+Gorgeous Gardens:Hendon:Gardening, Landscaping, Composting, Clearance:4:100.00:From high-level garden designs to basic Autumn tidying.
+Motor Madness:Southgate:General motor maintenance, Engine tuning, Breakdowns, MOT Testing:12:105.00:General motor mechanics, excluding bodywork.
+Motor bodies:Oakwood:Crash recovery, Bodywork, Respraying:6:120.00:All bodywork considering including crash recovery and insurance claims.
+Honest Plumbing Ltd.:Willesden Green:Plumbing, Water leaks, Pipework:1:200.00:All plumbing work covered, double the call out rate on bank holidays.
+Tim's Tilers:Totteridge:Roofing, Tiling, Stack alignment:2:150.00:Call for an assessment and free quote, 24/7.
+Sound Satellites:Edgware:TV Aerials, Satellite Dishes, Cable TV installation:2:110.00:All antenna and TV installations, please phone for a quote.
+Enfield Engines:Enfield:Engine tuning, General motor maintenance, Breakdown assistance:4:130.00:Specialists in engine maintenance.
+Brian's Bathrooms:Barnet:Plastering, Tiling, Plumbing, Bathroom suites:3:160.00:General bathroom specialists, Kitchens too.
+Everything Electrical:Enfield:Wiring, Electrics, Lighting:2:130.00:All electrical work covered, including external wiring.
+Woody Furniture:Woodside Park:Carpentry, Custom furniture, Joinery:5:120.00:Wood specialists, internal carpentry and external joinery.
+Sky's the limit:Mill Hill East:Satellite dishes, Cable TV installation, TV repairs:3:120.00:Specialists in TV and Satellite installations.
+Harry the Plumber:Highgate:General plumbing, Bathroom fitting:1:175.00:General plumber available 24/7.
+Derek the Decorator:Barnet:Painting, Decorating, Wall papering, Plastering:3:125.00:Friendly family firm, small jobs considered.
+Scuff and Scratch:Finchley:Motor bodywork and repairs, Resprays, Dents:6:120.00:All vehicle bodywork covered.
+Carl's Carpentry:Hendon:Joinery, Carpentry, Woodwork:1:140.00:Anything to do with wood a speciality.
+Graham's Garage:Totteridge: MOT inspections, Motor Mechanics, Engine tune-ups:7:130.00:General motor maintenance and MOT's.
+Electric Dreams:Enfield:Electrical work, Wiring, Electrical testing, Electrical installations:3:125.00:Qualified Electricians offer friendly service.
+Busy Bee Cleaners:Barnet:Cleaning services, Domestic cleaning, Ironing:1:75.00:All domestic cleaning work covered, other domestic work considered.
+Pests r' us:North Finchley:Wasps, Ants, Mice, Rats, Pigeons, General pest control:1:120.00:North London area covered, all pests dealt with.
+Barry's Bricks:Brent Cross:Brick laying, Building, Construction:5:130.00:General building work domestic and commercial.
+Autumm Leaves:Southgate:Garden clearance, General gardening:1:80.00:Retired gentleman available for domestic gardening work.
